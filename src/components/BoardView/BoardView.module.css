@@ -1,0 +1,10 @@
+.table {
+  border: 2px solid;
+}
+
+.cell {
+  border: 1px dashed;
+  min-width: 15px;
+  min-height: 15px;
+  height: 15px;
+}
